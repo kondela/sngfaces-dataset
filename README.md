@@ -3,7 +3,7 @@
 ![Format PNG](https://img.shields.io/badge/format-PNG-green.svg?style=plastic)
 ![Resolution 2048&times;2048](https://img.shields.io/badge/resolution-2048&times;2048-green.svg?style=plastic)
 ![Images 621](https://img.shields.io/badge/images-621-green.svg?style=plastic)
-
+[![DOI](https://zenodo.org/badge/307103640.svg)](https://zenodo.org/badge/latestdoi/307103640)
 
 ![Teaser image](./img/sngfaces-teaser.png)
 
@@ -35,6 +35,7 @@ All data is hosted on Google Drive:
 | &boxvr;&nbsp;[unprocessed_previews](https://drive.google.com/drive/folders/1J7y2tGvdO8c3mM8-ehchxfNVBhyVgWdC) | 0.6 GB | 757 | PNG | Original unprocessed preview images at 800&times;(shorter size) resolution  
 | &boxvr;&nbsp;[processed/2048](https://drive.google.com/drive/folders/1CznCoaCrm1jnLmPrbmuUgAPPt-5SZXHE) | 4.3 GB | 621 | PNG | Aligned and cropped images  at 2048&times;2048 resolution 
 | &boxur;&nbsp;[processed/1024](https://drive.google.com/drive/folders/1_Ddr__nik0hov_1RObmkeeylZYLDa7Vx) | 1.1 GB | 644 | PNG | Aligned and cropped images  at 1024&times;1024 resolution
+
 ## Reproducing the dataset
 
 Contrary to MetFaces, SNGFaces images can not be reproduced since the original full resolution images are not provided as
